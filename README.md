@@ -1,7 +1,7 @@
 <img src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" width="200">
 
 - 👋 Hi, I’m Jaswanth Sai
-- 👀 I’m interested in learning Anything New and Useful
+- 👀 I’m interested in learning new and useful
 - 🌱 I’m currently learning Java
 - 📫 How to reach me : jasvanthsai7@gmail.com
 
