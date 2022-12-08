@@ -11,6 +11,7 @@ You can click the Preview link to take a look at your changes.
 --->
 ----
 <p align="left"><img src="https://komarev.com/ghpvc/?username=jaswanthsai7" alt="jaswanthsai7"/> </p>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jaswanthsai7" alt="jaswanthsai7" /></a> </p>
 
 
